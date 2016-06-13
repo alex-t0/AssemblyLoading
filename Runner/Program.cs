@@ -8,10 +8,6 @@ namespace Runner
     {
         static void Main(string[] args)
         {
-            // Application.EnableVisualStyles();
-            // MessageBox.Show("1");
-            // IntSecurity.UnmanagedCode.Demand();
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
